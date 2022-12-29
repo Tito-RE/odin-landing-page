@@ -108,3 +108,17 @@ ul {
 .item-img {
   border-radius: 10%;
 }
+
+.quote-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+blockquote {
+  width: 400px;
+}
+
+figcaption {
+  text-align: right;
+}
