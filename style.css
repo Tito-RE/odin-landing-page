@@ -75,3 +75,17 @@ ul {
   height: auto;
   flex: 0 1 1;
 }
+
+.item-collection-container {
+  text-align: center;
+}
+
+.item-collection {
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+}
+
+.info {
+  max-width: 200px;
+}
