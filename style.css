@@ -151,8 +151,24 @@ blockquote p {
   justify-content: center;
   align-items: center;
   gap: 100px;
+  color: #F9FAF8;
+  font-size: 22px;
+  font-weight: bold;
 }
 
 .banner-header > p {
-  margin-bottom: 0;
+  margin: 0;
+  color: #F9FAF8;
+  font-size: 18px;
+  font-weight: normal;
+}
+
+.action-button {
+  color: white;
+  border-radius: 8px;
+  background-color: #3882F6;
+  padding: 8px 30px;
+  font-size: 18px;
+  font-weight: bold;
+  border: 2px solid white;
 }
