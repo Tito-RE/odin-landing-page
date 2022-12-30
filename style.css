@@ -148,9 +148,8 @@ blockquote p {
   width: 1000px;
   height: 100px;
   display: flex;
-  justify-content: center;
+  justify-content: space-evenly;
   align-items: center;
-  gap: 100px;
   color: #F9FAF8;
   font-size: 22px;
   font-weight: bold;
@@ -161,6 +160,7 @@ blockquote p {
   color: #F9FAF8;
   font-size: 18px;
   font-weight: normal;
+  flex: 0 1 auto;
 }
 
 .action-button {
