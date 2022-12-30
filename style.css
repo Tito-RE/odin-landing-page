@@ -132,3 +132,27 @@ blockquote p {
   font-style: italic;
   color: #1F2937;
 }
+
+.action-container {
+  margin: 100px 0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.action-banner {
+  background-color: #3882F6;
+  border-radius: 10px;
+  border: none;
+  display: flex;
+  width: 1000px;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 100px;
+}
+
+.banner-header > p {
+  margin-bottom: 0;
+}
